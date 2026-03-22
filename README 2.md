@@ -21,18 +21,8 @@ house-price-analysis/
 │   ├── 02-data-cleaning.ipynb
 │   ├── 03-feature-engineering.ipynb
 │   └── 04-modeling.ipynb
-├── src/
-│   ├── __init__.py
-│   ├── data_processing.py
-│   ├── visualization.py
-│   └── modeling.py
-├── models/
-├── reports/
-│   ├── figures/
-│   └── final_report.md
 ├── config/
-│   └── config.yaml
-└── docs/
+     └── config.yaml
 ```
 
 ---
